@@ -26,3 +26,5 @@ Communities and transportation authorities in the United States can use these in
 In short, this work helps communities make data-driven decisions that improve public safety, reduce costs associated with accidents, and create safer environments for pedestrians.
 
 **LARGE VIHICLES INCLUDE (SUV, PICK-UP, OFF-ROADER, MPV)
+
+Website: https://light-truck-fatality-analysis.my.canva.site/
